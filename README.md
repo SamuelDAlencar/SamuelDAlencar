@@ -1,16 +1,21 @@
-### Ei! Sou o Samuel
+## Ei! Sou o Samuel, estudante de Desenvolvimento Web Fullstack da Trybe!
 
-<!--
-**SamuelDAlencar/SamuelDAlencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/SamuelDAlencar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelDAlencar&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDAlencar&layout=compact&langs_count=7&theme=ocean_dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="javascript" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="html" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="50" width="80" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+  
+  ##
+  
+  <div> 
+     <a href="https://www.linkedin.com/in/samuel-de-alencar-rocha-972896203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"></a>
+  </div>
