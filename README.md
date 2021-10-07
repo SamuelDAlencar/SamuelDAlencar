@@ -1,4 +1,6 @@
-## Ei! Sou o Samuel, estudante de Desenvolvimento Web Fullstack da Trybe!
+##### < README.please >
+
+ Ei! Sou o Samuel, estou começando com muito orgulho os estudos como aluno de Desenvolvimento Web da Turma 17 na Trybe, e correndo atrás de um futuro não tão distante como Desenvolvedor Web Fullstack! Já na caminhada há um ano, com 3 cursos da área concluídos (com 2 certificados emitidos), e conciliando mais 2 cursos com a jornada da Trybe.
 
 <div align="center">
   <a href="https://github.com/SamuelDAlencar">
