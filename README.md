@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ei! Sou o Samuel
 
 <!--
 **SamuelDAlencar/SamuelDAlencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
