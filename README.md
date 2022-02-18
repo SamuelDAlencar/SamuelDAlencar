@@ -1,6 +1,14 @@
 ##### < README.please >
 
- Ei! Sou o Samuel, estou começando com muito orgulho os estudos como aluno de Desenvolvimento Web da Turma 17 na Trybe, e correndo atrás de um futuro não tão distante como Desenvolvedor Web Fullstack! Já na caminhada há um ano, com 3 cursos da área concluídos (com 2 certificados emitidos), e conciliando mais 2 cursos com a jornada da Trybe.
+ Ei! bão?
+ 
+ Sou estudante de Desenvolvimento Web da Turma 17 na Trybe, e atualmente estou estudando gerenciamento de estado em uma aplicação React utilizando Redux (e que alias ta sendo minha paixãozinha 💚)
+ 
+ - No tempo livre ou estou codando (o que é mais provável 👨‍💻), tocando violão, assistindo anime, dorama, ou com minhas filhota penosa 🐣
+ - Apaixonadissimo por passaros, papai da Lilith 🐦, da Eva 🐤, e do Lorin 🦜
+ - Sempre disposto a tentar algo novo, sem filtro e de mente aberta 🍃
+ - Baby steps é a chave pra tudo 👶
+ 
 
 <div align="center">
   <a href="https://github.com/SamuelDAlencar">
