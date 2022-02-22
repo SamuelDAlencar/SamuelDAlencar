@@ -1,6 +1,6 @@
 ##### < README.please >
 
- <h4>Ei! bão?</h4>
+ <h4>Ei!</h4>
  
  Sou estudante de Desenvolvimento Web da Turma 17 na Trybe, e atualmente estou estudando gerenciamento de estado em uma aplicação React utilizando Redux (e que alias ta sendo minha paixãozinha 💚)
  
