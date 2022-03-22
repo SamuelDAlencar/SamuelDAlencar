@@ -12,6 +12,7 @@
  - Baby steps is the key 👶
  - Contact me 💌: sarl.2001@hotmail.com
  
+<hr />
 
 <div align="center">
   <a href="https://github.com/SamuelDAlencar">
