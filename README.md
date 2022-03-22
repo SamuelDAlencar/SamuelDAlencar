@@ -20,6 +20,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDAlencar&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+<hr />
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="javascript" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
