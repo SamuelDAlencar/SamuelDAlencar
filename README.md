@@ -1,14 +1,16 @@
 ##### < README.please >
 
- <h4>Ei!</h4>
+ <h4>hey!</h4>
  
- Desenvolvedor front-end, e fullstack em formação da turma 17 na Trybe 💚
+ Front-end developer, and fullstack dev in progress at Trybe 💚
  
- - No tempo livre ou estou codando (o que é mais provável 👨‍💻), tocando violão, assistindo anime, dorama, ou com minhas filhota penosa 🐣
- - Apaixonadissimo por passaros, papai da Lilith 🐦, da Eva 🐤, e do Lorin 🦜
- - Sempre disposto a tentar algo novo, sem filtro e de mente aberta 🍃
- - Baby steps é a chave pra tudo 👶
- - Meu contato 💌: sarl.2001@hotmail.com
+ - My daily routine is based on coding, playing guitar, exercising, watching animes and korean dramas, or cuddling with my birbs 🐣
+ - Completely in love with birds (Lilith 🐦 Eva 🐤 and Lorin 🦜 are my darlings 💚)
+ - Started skating again after a 4 years gap 🛹
+ - Moved by music (my playlists goes from German Metal to Kazakhstan Opera 🙃)
+ - Always up to learn something new (not only inside the tech area) and continuously focusing on developing myself as a person 💚
+ - Baby steps is the key 👶
+ - Contact me 💌: sarl.2001@hotmail.com
  
 
 <div align="center">
