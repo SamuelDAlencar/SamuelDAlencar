@@ -2,7 +2,7 @@
 
  <h4>Ei!</h4>
  
- Sou estudante de Desenvolvimento Web da Turma 17 na Trybe, e atualmente estou estudando gerenciamento de estado em uma aplicação React utilizando Redux (e que alias ta sendo minha paixãozinha 💚)
+ Desenvolvedor front-end, e fullstack em formação da turma 17 na Trybe 💚
  
  - No tempo livre ou estou codando (o que é mais provável 👨‍💻), tocando violão, assistindo anime, dorama, ou com minhas filhota penosa 🐣
  - Apaixonadissimo por passaros, papai da Lilith 🐦, da Eva 🐤, e do Lorin 🦜
