@@ -8,7 +8,7 @@
  - Apaixonadissimo por passaros, papai da Lilith 🐦, da Eva 🐤, e do Lorin 🦜
  - Sempre disposto a tentar algo novo, sem filtro e de mente aberta 🍃
  - Baby steps é a chave pra tudo 👶
- - Meu contato: sarl.2001@hotmail.com
+ - Meu contato 💌: sarl.2001@hotmail.com
  
 
 <div align="center">
