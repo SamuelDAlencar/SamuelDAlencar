@@ -2,7 +2,7 @@
 
  <h3>hey!</h3>
  
- Brazilian Front-end developer, and fullstack dev in progress at Trybe 👨‍💻💚
+ I'm a brazilian Front-end developer, and a fullstack software development student at Trybe 👨‍💻💚
  
  - My daily routine is based on coding, playing guitar, exercising, watching animes and korean dramas, or cuddling with my birbs 🐣
  - Completely in love with birds (Lilith 🐦 Eva 🐤 and Lorin 🦜 are my darlings 💚)
