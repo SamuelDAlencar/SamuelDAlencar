@@ -2,7 +2,7 @@
 
  <h4>hey!</h4>
  
- Front-end developer, and fullstack dev in progress at Trybe 💚
+ Brazilian Front-end developer, and fullstack dev in progress at Trybe 💚
  
  - My daily routine is based on coding, playing guitar, exercising, watching animes and korean dramas, or cuddling with my birbs 🐣
  - Completely in love with birds (Lilith 🐦 Eva 🐤 and Lorin 🦜 are my darlings 💚)
