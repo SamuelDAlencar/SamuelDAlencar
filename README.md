@@ -6,7 +6,7 @@
  
  - My daily routine is based on coding, playing guitar, exercising, watching animes and korean dramas, or cuddling with my birbs 🐣
  - Completely in love with birds (Lilith 🐦 Eva 🐤 and Lorin 🦜 are my darlings 💚)
- - Moved by all kinds of music 🎶 (my playlists goes from German Metal to Kazakhstan Opera 💃)
+ - Moved by all kinds of music 🎶 (my playlists goes from German Rock to Kazakhstan Opera 💃)
  - Always up to learn something new (not only inside the tech area) and continuously focusing on developing myself as a person 💚
  - Baby steps is the key 👶
  - Contact me 💌: sarl.2001@hotmail.com
