@@ -13,10 +13,10 @@
  
 <hr />
 
-<div align="center" style="display: flex; flex-direction: column">
+<div style="display: flex">
   <a href="https://github.com/SamuelDAlencar">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelDAlencar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDAlencar&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelDAlencar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDAlencar&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <hr />
