@@ -4,7 +4,7 @@
  
  I'm a brazilian Front-end developer, and a fullstack software development student at Trybe 👨‍💻💚
  
- - My daily routine is based on coding, playing guitar, exercising, watching animes and korean dramas, or cuddling with my birbs 🐣
+ - My daily routine is based on coding, playing guitar, studying languages (currently french), exercising, writing, reading and cuddling with my babies 🐣
  - Completely in love with birds (Lilith 🐦 Eva 🐤 and Lorin 🦜 are my darlings 💚)
  - Moved by all kinds of music 🎶 (my playlists goes from German Rock to Kazakhstan Opera 💃)
  - Always up to learn something new (not only inside the tech area) and continuously focusing on developing myself as a person 💚
