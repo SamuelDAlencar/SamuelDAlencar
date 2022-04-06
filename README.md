@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<!--   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> -->
 </div>
   
   ##
