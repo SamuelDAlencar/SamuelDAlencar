@@ -4,10 +4,10 @@
  
  I'm a brazilian Front-end developer, and a fullstack software development student at Trybe 👨‍💻💚
  
- - My daily routine is based on coding, playing guitar, studying languages (currently french), exercising, writing, reading and cuddling with my babies 🐣
+ - Living to learn, and always learning to live 📚💚
+ - My daily routine is based on coding, playing guitar, studying languages (currently french and Libras), studying philosophie (currently Stoicism), exercising, writing and reading 📑
  - Completely in love with birds (Lilith 🐦 Eva 🐤 and Lorin 🦜 are my darlings 💚)
  - Moved by all kinds of music 🎶 (my playlists goes from German Rock to Kazakhstan Opera 💃)
- - Always up to learn something new (not only inside the tech area) and continuously focusing on developing myself as a person 💚
  - Baby steps is the key 👶
  - Contact me 💌: sarl.2001@hotmail.com
  
