@@ -10,6 +10,8 @@
  - Moved by all kinds of music 🎶 (my playlists goes from German Rock to Kazakhstan Opera 💃)
  - Baby steps is the key 👶
  - Contact me 💌: sarl.2001@hotmail.com
+
+"As long as you live, keep learning how to live" - Lucius Annaeus Seneca 💚
  
 <hr />
 
