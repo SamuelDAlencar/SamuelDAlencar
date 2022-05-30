@@ -1,10 +1,9 @@
 ##### < README.please >
 
- <h3>hey!</h3>
+ <h3>salut!</h3>
  
  I'm a brazilian Front-end developer, and a fullstack software development student at Trybe 👨‍💻💚
  
- - Living to learn, and always learning how to live 📚💚
  - Routine based in Coding, playing guitar, studying languages (currently french and Libras), studying philosophie (now focusing on Stoicism), skating, calisthenics, writing and reading 📑
  - Completely in love with birds (Lilith 🐦 Eva 🐤 and Lorin 🦜 are my darlings 💚)
  - Moved by all kinds of music 🎶 (my playlists goes from German Rock to Kazakhstan Opera 💃)
