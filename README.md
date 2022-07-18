@@ -2,9 +2,7 @@
 
  <h3>salut!</h3>
  
- I'm a brazilian Front-end developer, and a fullstack software development student at Trybe 👨‍💻💚.
- 
- Having always had contact with technology and games since I was a child, I created an immense passion for this world and then decided to take it for life. I started studying for front-end development in 2020 through online courses, and now I'm a Trybe student, currently studying typescript in back-end. Passionate for technology, languages, philosophie, music, sports, and the idea of learning in general.
+ Having always had contact with technology and games since I was a child, I created an immense passion for this world and then decided to take it for life. I started studying for front-end development in 2020 through online courses, and now I'm a Trybe student, currently studying MongoDB. Passionate for technology, languages, philosophie, music, sports, and the idea of learning in general.
  
  - Routine based in Coding, playing guitar, keyboard, studying languages, philosophie, skating, calisthenics, yoga, writing and reading 📑
  - Completely in love with birds 🦜💚
