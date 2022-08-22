@@ -1,6 +1,6 @@
 ##### < README.please >
 
-## salut!
+### salut!
 
 ### [🇧🇷 Portuguese]
 
@@ -22,7 +22,7 @@
  - Baby steps is the key 👶
  - Contact me 💌: sarl.2001@hotmail.com
 
-<h4>"As long as you live, keep learning how to live" - Lucius Annaeus Seneca 💚</h4>
+### "As long as you live, keep learning how to live" - Lucius Annaeus Seneca 💚
  
 <hr />
 
