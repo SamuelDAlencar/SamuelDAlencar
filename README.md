@@ -4,7 +4,7 @@
  
  Having always had contact with technology and games since I was a child, I created an immense passion for this world and then decided to take it for life. I started studying for front-end development in 2020, and now focusing on back-end. Currently studying MongoDB. Passionate for technology, languages, philosophie, music, sports, and the idea of learning in general.
  
- - Routine based in Coding, playing guitar, keyboard, studying languages, philosophie, skating, calisthenics, yoga, writing and reading 📑
+ - Routine based in Coding, playing guitar, keyboard, studying languages, philosophie, skating, calisthenics, writing and reading 📑
  - Completely in love with birds 🦜💚
  - Moved by all kinds of music 🎶 (my playlists goes from German Rock to Kazakhstan Opera 💃)
  - Baby steps is the key 👶
