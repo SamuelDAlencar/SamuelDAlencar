@@ -1,14 +1,14 @@
 ##### < README.please >
 
  <h3>salut!</h3>
- 
- Having always had contact with technology and games since I was a child, I created an immense passion for this world and then decided to take it for life. I started studying for front-end development in 2020, and now focusing on back-end. Currently studying MongoDB. Passionate for technology, languages, philosophie, music, sports, and the idea of learning in general.
- 
- - Routine based in Coding, playing guitar, keyboard, studying languages, philosophie, skating, calisthenics, writing and reading 📑
- - Completely in love with birds 🦜💚
- - Moved by all kinds of music 🎶 (my playlists goes from German Rock to Kazakhstan Opera 💃)
- - Baby steps is the key 👶
- - Contact me 💌: sarl.2001@hotmail.com
+
+ Tendo tido o privilégio de ter contato com tecnologia desde criança, criei uma paixão imensa pela area e decidi levar pra vida. Comecei a estudar desenvolvimento front-end em 2020, e agora focando em back-end, estudando MongoDB. Atualmente aluno da [Trybe](https://www.betrybe.com/).
+
+ - Rotina baseada em código, violão, teclado, estudo de línguas, filosofia, leitura e escrita 📑
+ - Completamente apaixonado por pássaros 🦜💚
+ - Movido por todo tipo de música 🎶 (playlists vão de rock alemão até ópera cazaque 💃)
+ - Baby steps é a chave 👶
+ - Entre em contato 💌: sarl.2001@hotmail.com
 
 <h4>"As long as you live, keep learning how to live" - Lucius Annaeus Seneca 💚</h4>
  
