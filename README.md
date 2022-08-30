@@ -2,7 +2,7 @@
 
 # salut!
 
-### [🇧🇷 Portuguese]
+## [🇧🇷 Portuguese]
 
  Tendo tido o privilégio de ter contato com tecnologia desde criança, criei uma paixão imensa pela area e decidi levar pra vida. Comecei a estudar desenvolvimento front-end em 2020, e agora focando em back-end, estudando MongoDB e AWS. Atualmente aluno da [Trybe](https://www.betrybe.com/).
 
@@ -14,7 +14,7 @@
  
  ### "Enquanto viver, continue aprendendo a viver" - Lucius Annaeus Seneca 💚
  
- ### [🇺🇸 English]
+ ## [🇺🇸 English]
  
   Having always had contact with technology since I was a kid, I've created an imense passion for this world, and decided to take it for life! Started studying front-end development in 2020, and now focusing on back-end, studying MongoDB and AWS. Currently a student at [Trybe](https://www.betrybe.com/).
 
