@@ -60,8 +60,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
+
+<hr />
   
-  ### 🙋‍♂️ Contato
-  <div> 
-     <a href="https://www.linkedin.com/in/samuel-de-alencar-rocha-972896203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"></a>
-  </div>
+### 🙋‍♂️ Contato
+<div> 
+   <a href="https://www.linkedin.com/in/samuel-de-alencar-rocha-972896203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"></a>
+</div>
