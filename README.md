@@ -4,7 +4,7 @@
 
 ## [🇧🇷 Portuguese]
 
- Tendo tido o privilégio de ter contato com tecnologia desde criança, criei uma paixão imensa pela area e decidi levar pra vida. Comecei a estudar desenvolvimento front-end em 2020, e agora focando em back-end, estudando Python, Nest.js e AWS. Atualmente aluno da [Trybe](https://www.betrybe.com/) e desenvolvedor fullstack na [NGO Soluções](https://ngosolucoes.com.br/).
+ Tendo tido o privilégio de ter contato com tecnologia desde criança, criei uma paixão imensa pela area e decidi levar pra vida. Comecei a estudar desenvolvimento front-end em 2020, e agora focando em back-end, estudando Python. Atualmente aluno da [Trybe](https://www.betrybe.com/) e desenvolvedor fullstack na [NGO Soluções](https://ngosolucoes.com.br/).
 
  - Rotina baseada em código, violão, teclado, estudo de línguas, filosofia, leitura e escrita 📑
  - Completamente apaixonado por pássaros 🦜💚
@@ -16,7 +16,7 @@
  
  ## [🇺🇸 English]
  
-  Having always had contact with technology since I was a kid, I've created an imense passion for this world, and decided to take it for life! Started studying front-end development in 2020, and now focusing on back-end, studying Python, Nest.js and AWS. Currently a student at [Trybe](https://www.betrybe.com/) and fullstack developer at [NGO Soluções](https://ngosolucoes.com.br/).
+  Having always had contact with technology since I was a kid, I've created an imense passion for this world, and decided to take it for life! Started studying front-end development in 2020, and now focusing on back-end, studying Python. Currently a student at [Trybe](https://www.betrybe.com/) and fullstack developer at [NGO Soluções](https://ngosolucoes.com.br/).
 
  - Routine based on coding, playing guitar, keyboard, language learning, philosophy, reading and writing 📑
  - Completely in love with birds 🦜💚
@@ -44,9 +44,11 @@
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
    <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tech_icon" height="50" width="80" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
@@ -57,7 +59,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
