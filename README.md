@@ -4,7 +4,7 @@
 
 ## [🇧🇷 Portuguese]
 
- Tendo tido o privilégio de ter contato com tecnologia desde criança, criei uma paixão imensa pela area e decidi levar pra vida. Comecei a estudar desenvolvimento front-end em 2020, entrei na [Trybe](https://www.betrybe.com/) em setembro de 2021, e ao final de 2022 me formei como desenvolvedor fullstack, atuando principalmente com Javascript e Python. Atualmente sou desenvolvedor fullstack na [Oppem](https://oppem.com.br/).
+ Tendo tido o privilégio de ter contato com tecnologia desde criança, criei uma paixão imensa pela area e decidi levar pra vida. Comecei a estudar desenvolvimento front-end em 2020, entrei na [Trybe](https://www.betrybe.com/) em setembro de 2021, e ao final de 2022 me formei como desenvolvedor fullstack, atuando principalmente com Javascript. Hoje sou desenvolvedor fullstack na [Oppem](https://oppem.com.br/).
 
  - Bem-estar, exercícios físicos, podcasts, games, línguas, filosofia 📖🎧
  - Completamente apaixonado por pássaros 🦜💚
@@ -15,7 +15,7 @@
  
  ## [🇺🇸 English]
  
-  Having always had contact with technology since I was a kid, I've created an imense passion for this world, and decided to take it for life! I started studying front-end development in 2020, joined [Trybe](https://www.betrybe.com/) in September 2021, and in the end of 2022 I graduated as a fullstack developer, working mainly with Javascript and Python. Currently a Fullstack Developer at [Oppem](https://oppem.com.br/).
+  Having always had contact with technology since I was a kid, I've created an imense passion for this world, and decided to take it for life! I started studying front-end development in 2020, joined [Trybe](https://www.betrybe.com/) in September 2021, and in the end of 2022 I graduated as a fullstack developer, working mainly with Javascript. Currently a Fullstack Developer at [Oppem](https://oppem.com.br/).
 
  - Wellness, exercise, podcasts, games, languages, philosophy 📖🎧
  - Completely in love with birds 🦜💚
