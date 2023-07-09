@@ -4,7 +4,7 @@
 
 ## [🇧🇷 Portuguese]
 
- Tendo tido o privilégio de ter contato com tecnologia desde criança, criei uma paixão imensa pela area e decidi levar pra vida. Comecei a estudar desenvolvimento front-end em 2020, entrei na [Trybe](https://www.betrybe.com/) em setembro de 2021, e ao final de 2022 me formei como desenvolvedor fullstack, atuando principalmente com Javascript. Hoje sou desenvolvedor fullstack na [Oppem](https://oppem.com.br/).
+  Tendo tido o privilégio de ter contato com tecnologia desde criança, me familiarizei com a área rapidamente, e vendo a vastidão de oportunidades, decidi seguir carreira como desenvolvedor. Comecei a estudar desenvolvimento front-end em 2020, entrei na [Trybe](https://www.betrybe.com/) em setembro de 2021, e ao final de 2022 me formei como desenvolvedor fullstack, atuando principalmente com Javascript. Hoje sou desenvolvedor fullstack na [Oppem](https://oppem.com.br/).
 
  - Bem-estar, exercícios físicos, podcasts, games, línguas, filosofia 📖🎧
  - Completamente apaixonado por pássaros 🦜💚
