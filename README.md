@@ -15,7 +15,7 @@
  
  ## [🇺🇸 English]
  
-  Having always had contact with technology since I was a kid, I've created an imense passion for this world, and decided to take it for life! I started studying front-end development in 2020, joined [Trybe](https://www.betrybe.com/) in September 2021, and in the end of 2022 I graduated as a fullstack developer, working mainly with Javascript. Currently a Fullstack Developer at [Oppem](https://oppem.com.br/).
+  Having had the privilege of having contact with technology since childhood, I became familiar with the area very quickly, and seeing the vastness of opportunities, I decided to pursue a career as a developer. I started studying front-end development in 2020, joined [Trybe](https://www.betrybe.com/) in September 2021, and in the end of 2022 I graduated as a fullstack developer, working mainly with Javascript. Currently a Fullstack Developer at [Oppem](https://oppem.com.br/).
 
  - Wellness, exercise, podcasts, games, languages, philosophy 📖🎧
  - Completely in love with birds 🦜💚
