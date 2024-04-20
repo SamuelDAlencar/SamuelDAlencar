@@ -4,7 +4,10 @@
 
 ## [🇧🇷 Portuguese]
 
-  Tendo tido o privilégio de ter contato com tecnologia desde criança, me familiarizei com a área rapidamente, e vendo a vastidão de oportunidades, decidi seguir carreira como desenvolvedor. Comecei a estudar desenvolvimento front-end em 2020, entrei na [Trybe](https://www.betrybe.com/) em setembro de 2021, e ao final de 2022 me formei como desenvolvedor fullstack, atuando principalmente com Javascript. Hoje sou desenvolvedor fullstack na [Oppem](https://oppem.com.br/).
+  Formei em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) em 2022, seguindo as melhores práticas atuais do mercado,
+aplicando princípios S.O.L.I.D, Clean Code, e desenvolvendo códigos limpos e escaláveis.
+
+ Desenvolvedor de software na [Oppem](https://oppem.com.br/) desde 2022, atuando na implementação, manutenção e tomada de decisões em relação ao Opus, nosso sistema de gestao de contratos. Ter entrado em uma startup logo no início da minha carreira, me proporcionou diversas oportunidades para botar em prática minha proatividade, flexibilidade, e sede de aprendizado, gerando experiências que colaboraram com minha evolução como profissional e como pessoa.
 
  - Bem-estar, exercícios físicos, podcasts, games, línguas, filosofia 📖🎧
  - Completamente apaixonado por pássaros 🦜💚
@@ -15,7 +18,10 @@
  
  ## [🇺🇸 English]
  
-  Having had the privilege of having contact with technology since childhood, I became familiar with the area very quickly, and seeing the vastness of opportunities, I decided to pursue a career as a developer. I started studying front-end development in 2020, joined [Trybe](https://www.betrybe.com/) in September 2021, and in the end of 2022 I graduated as a fullstack developer, working mainly with Javascript. Currently a Fullstack Developer at [Oppem](https://oppem.com.br/).
+  I graduated in Web Development from [Trybe](https://www.betrybe.com/) in 2022, following current best practices in the market,
+applying S.O.L.I.D. principles, Clean Code, and developing clean and scalable code.
+
+ Software developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance and decision-making of Opus, our contract management system. Joining a startup at the very beginning of my career has given me several opportunities to put my proactivity, flexibility and thirst for learning into practice, generating experiences that have helped me evolve as a professional and as a person.
 
  - Wellness, exercise, podcasts, games, languages, philosophy 📖🎧
  - Completely in love with birds 🦜💚
