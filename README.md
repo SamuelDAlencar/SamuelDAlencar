@@ -4,8 +4,7 @@
 
 ## [🇧🇷 Portuguese]
 
-  Formei em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) em 2022, seguindo as melhores práticas atuais do mercado,
-aplicando princípios S.O.L.I.D, Clean Code, e desenvolvendo códigos limpos e escaláveis.
+  Formei em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) em 2022, seguindo as melhores práticas do mercado, em um período de grande impacto na nossa área, que foi a pandemia.
 
  Desenvolvedor de software na [Oppem](https://oppem.com.br/) desde 2022, atuando na implementação, manutenção e tomada de decisões em relação ao Opus, nosso sistema de gestao de contratos. Ter entrado em uma startup logo no início da minha carreira, me proporcionou diversas oportunidades para botar em prática minha proatividade, flexibilidade, e sede de aprendizado, gerando experiências que colaboraram com minha evolução como profissional e como pessoa.
 
@@ -18,8 +17,7 @@ aplicando princípios S.O.L.I.D, Clean Code, e desenvolvendo códigos limpos e e
  
  ## [🇺🇸 English]
  
-  I graduated in Web Development from [Trybe](https://www.betrybe.com/) in 2022, following current best practices in the market,
-applying S.O.L.I.D. principles, Clean Code, and developing clean and scalable code.
+  I graduated in Web Development from [Trybe](https://www.betrybe.com/) in 2022, following the best practices in the industry during a period of significant impact in our field, which was the pandemic.
 
  Software developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance and decision-making of Opus, our contract management system. Joining a startup at the very beginning of my career has given me several opportunities to put my proactivity, flexibility and thirst for learning into practice, generating experiences that have helped me evolve as a professional and as a person.
 
