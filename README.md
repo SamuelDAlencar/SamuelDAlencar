@@ -4,10 +4,11 @@
 
 ## [🇧🇷 Portuguese]
 
-  Formei em Desenvolvimento Web na [Trybe](https://www.betrybe.com/) em 2022, seguindo as melhores práticas do mercado, em um período de grande impacto na nossa área, que foi a pandemia.
+ Desenvolvedor Fullstack na [Oppem](https://oppem.com.br/) desde 2022, atuando na implementação, manutenção e tomada de decisões em relação ao Opus, nosso sistema de gestao de contratos.
 
- Desenvolvedor de software na [Oppem](https://oppem.com.br/) desde 2022, atuando na implementação, manutenção e tomada de decisões em relação ao Opus, nosso sistema de gestao de contratos. Ingressar em uma startup no início da minha carreira como desenvolvedor me proporcionou um ambiente dinâmico, com inúmeras oportunidades para aplicar meu conhecimento técnico e dedicação. Além disso, desenvolvi minha proatividade e engajamento ao participar ativamente de todas as tarefas e oportunidades que surgiram, o que não apenas enriqueceu minha trajetória profissional, mas também contribuiu para o crescimento e fortalecimento da equipe. Essas experiências foram fundamentais para minha evolução como profissional e para o desenvolvimento contínuo do time com o qual trabalho.
- 
+Graduando em Ciências da Computação (1/4)
+
+Formado em Desenvolvimento Web Fullstack na [Trybe](https://www.betrybe.com/) em 2022.
  
  - Bem-estar, exercícios físicos, podcasts, games, línguas, filosofia 📖🎧
  - Completamente apaixonado por pássaros 🦜💚
@@ -18,10 +19,11 @@
  
  ## [🇺🇸 English]
  
-  I graduated in Web Development from [Trybe](https://www.betrybe.com/) in 2022, following the best practices in the industry during a period of significant impact in our field, which was the pandemic.
+Fullstack Software Developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance, and decision-making for Opus, our contract management system.
 
- Software developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance, and decision-making processes related to Opus, our contract management system. Starting my career in a startup provided me with a dynamic environment filled with numerous opportunities to apply my technical knowledge and dedication. Additionally, I developed my proactivity and engagement by actively participating in every task and opportunity that arose, which not only enriched my professional journey but also contributed to the growth and strengthening of the team. These experiences have been fundamental to my evolution as a professional and to the continuous development of the team I work with.
- 
+Computer Science undergraduate (1/4).
+
+Graduated in Fullstack Web Development at [Trybe](https://www.betrybe.com/) in 2022.
 
  - Wellness, exercise, podcasts, games, languages, philosophy 📖🎧
  - Completely in love with birds 🦜💚
