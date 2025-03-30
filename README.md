@@ -74,3 +74,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 <div> 
    <a href="https://www.linkedin.com/in/samueldalencar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 40px;"></a>
 </div>
+
+(Imagem de perfil gerada por IA | IA generated profile picture)
