@@ -6,7 +6,7 @@
 
  Desenvolvedor Fullstack na [Oppem](https://oppem.com.br/) desde 2022, atuando na implementação, manutenção e tomada de decisões em relação ao Opus, nosso sistema de gestao de contratos.
 
-Graduando em Ciências da Computação (1/4)
+Graduando em Ciências da Computação (1/8)
 
 Formado em Desenvolvimento Web Fullstack na [Trybe](https://www.betrybe.com/) em 2022.
  
@@ -21,7 +21,7 @@ Formado em Desenvolvimento Web Fullstack na [Trybe](https://www.betrybe.com/) em
  
 Fullstack Software Developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance, and decision-making for Opus, our contract management system.
 
-Computer Science undergraduate (1/4).
+Computer Science undergraduate (1/8).
 
 Graduated in Fullstack Web Development at [Trybe](https://www.betrybe.com/) in 2022.
 
