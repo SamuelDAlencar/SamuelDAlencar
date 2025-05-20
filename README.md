@@ -26,7 +26,7 @@ Graduated in Fullstack Web Development at [Trybe](https://www.betrybe.com/) in 2
   
 <hr />
  
- ### 🧰 Techs
+ ### 🧰 Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="tech_icon" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
