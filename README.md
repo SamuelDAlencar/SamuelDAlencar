@@ -2,23 +2,6 @@
 
 # salut!
 
-## [🇧🇷 Portuguese]
-
- Desenvolvedor Fullstack na [Oppem](https://oppem.com.br/) desde 2022, atuando na implementação, manutenção e tomada de decisões em relação ao Opus, nosso sistema de gestao de contratos.
-
-Graduando em Ciências da Computação (1/8)
-
-Formado em Desenvolvimento Web Fullstack na [Trybe](https://www.betrybe.com/) em 2022.
- 
- - Bem-estar, exercícios físicos, podcasts, games, línguas, filosofia 📖🎧
- - Completamente apaixonado por pássaros 🦜💚
- - Baby steps é a chave 👶
- - Entre em contato 💌: sarl.2001@hotmail.com
- 
- ### "Enquanto viver, continue aprendendo a viver" - Lucius Annaeus Seneca 💚
- 
- ## [🇺🇸 English]
- 
 Fullstack Software Developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance, and decision-making for Opus, our contract management system.
 
 Computer Science undergraduate (1/8).
