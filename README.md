@@ -4,11 +4,11 @@
 
 Fullstack Software Developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance, and decision-making for Opus, our contract management system.
 
-Computer Science undergraduate (1/8).
+Computer Science undergraduate (2/8).
 
 Graduated in Fullstack Web Development at [Trybe](https://www.betrybe.com/) in 2022.
 
- - Wellness, exercise, podcasts, games, languages, philosophy 📖🎧
+ - Wellness, exercise, games, languages, philosophy 📖🎧
  - Completely in love with birds 🦜💚
  - Baby steps is the key 👶
  - Contact me 💌: sarl.2001@hotmail.com
