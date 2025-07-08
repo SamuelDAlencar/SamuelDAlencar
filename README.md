@@ -2,7 +2,7 @@
 
 # salut!
 
-Fullstack Software Developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance, and decision-making for Opus, our contract management system.
+Fullstack Software Developer at [Oppem](https://oppem.com.br/) since 2022, working on the implementation, maintenance, and decision-making for Opus, our digital contract management system.
 
 Computer Science undergraduate (2/8).
 
